@@ -57,9 +57,22 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻 Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <br/> Convertirme en Desarrollador Full Stack con **Java, Spring Boot, JavaScript y React**.
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/🔒 Ciberseguridad-red?style=for-the-badge" />
+  <br/> Aplicar buenas prácticas de seguridad en cada proyecto que realice.
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/🌍 Código%20Abierto-green?style=for-the-badge" />
+  <br/> Participar en proyectos colaborativos y **aportar a la comunidad tech**.
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/🚀 Aprendizaje%20Constante-orange?style=for-the-badge" />
+  <br/> Aprender nuevas tecnologías y mejorar mis habilidades día a día.
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/✨ Impacto%20Positivo-purple?style=for-the-badge" />
+  <br/> Crear software que tenga un impacto **real y positivo en las personas**.
 </p>
 
