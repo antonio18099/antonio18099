@@ -55,24 +55,19 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 
 ## 🎯 Mis Objetivos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💻 Full%20Stack%20Developer-blue?style=for-the-badge" />
-  <br/> Convertirme en Desarrollador Full Stack con **Java, Spring Boot, JavaScript y React**.
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/🔒 Ciberseguridad-red?style=for-the-badge" />
-  <br/> Aplicar buenas prácticas de seguridad en cada proyecto que realice.
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/🌍 Código%20Abierto-green?style=for-the-badge" />
-  <br/> Participar en proyectos colaborativos y **aportar a la comunidad tech**.
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/🚀 Aprendizaje%20Constante-orange?style=for-the-badge" />
-  <br/> Aprender nuevas tecnologías y mejorar mis habilidades día a día.
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/✨ Impacto%20Positivo-purple?style=for-the-badge" />
-  <br/> Crear software que tenga un impacto **real y positivo en las personas**.
-</p>
+- ![FullStack](https://img.shields.io/badge/Objetivo-Full%20Stack%20Developer-blue?style=for-the-badge)  
+  Dominar **Java, Spring Boot y React**.  
+
+- ![CyberSec](https://img.shields.io/badge/Objetivo-Ciberseguridad-red?style=for-the-badge)  
+  Aplicar prácticas de **DevSecOps** y seguridad en proyectos.  
+
+- ![OpenSource](https://img.shields.io/badge/Objetivo-Open%20Source-green?style=for-the-badge)  
+  Colaborar en **código abierto** y compartir conocimiento.  
+
+- ![Learning](https://img.shields.io/badge/Objetivo-Aprendizaje%20Continuo-yellow?style=for-the-badge)  
+  Mantenerme en evolución constante.  
+
+- ![Impact](https://img.shields.io/badge/Objetivo-Impacto%20Positivo-orange?style=for-the-badge)  
+  Crear software que mejore la vida de las personas.  
+
 
