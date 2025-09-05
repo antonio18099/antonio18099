@@ -45,21 +45,12 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <!-- Seguidores -->
-  <img src="https://img.shields.io/github/followers/antonio18099?label=Followers&style=for-the-badge&logo=github" alt="Seguidores" />
-  
-  <!-- Estrellas -->
-  <img src="https://img.shields.io/github/stars/antonio18099?affiliations=OWNER&style=for-the-badge&logo=github" alt="Stars" />
-  
-  <!-- Último commit -->
-  <img src="https://img.shields.io/github/last-commit/antonio18099/antonio18099?style=for-the-badge&logo=git" alt="Último commit" />
-  
-  <!-- Lenguajes más usados -->
-  <img src="https://img.shields.io/github/languages/top/antonio18099/antonio18099?style=for-the-badge&logo=javascript" alt="Lenguaje principal" />
-  
-  <!-- Visitantes -->
-  <img src="https://komarev.com/ghpvc/?username=antonio18099&style=for-the-badge" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/Repositorios-10-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Commits-500+-green?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Proyectos Activos-3-orange?style=for-the-badge&logo=code"/>
+  <img src="https://img.shields.io/badge/Colaboraciones-15-purple?style=for-the-badge&logo=handshake"/>
 </p>
+
 
 
 ## 🎯 Mis Objetivos
