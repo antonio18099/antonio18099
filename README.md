@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/home/ubuntu/banner_github.png" alt="Banner Antonio José Rodríguez Sánchez - Desarrollador de Software">
+  <img src="C:\Users\Antonio Sanchez\Desktop\antonio\banner_github.png" alt="Banner Antonio José Rodríguez Sánchez - Desarrollador de Software">
 </p>
 
 # ¡Hola! Soy Antonio José Rodríguez Sánchez 👋
