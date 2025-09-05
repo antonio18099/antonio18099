@@ -25,14 +25,17 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60" style="margin: 10px;"/>
   
   <!-- Bases de datos -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;"/>
   
-  <!-- DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin: 10px;"/>
+  <!-- Control de versiones -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 10px;"/>
+  
+  <!-- Sistemas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" style="margin: 10px;"/>
   
   <!-- Diseño -->
@@ -42,25 +45,21 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonio18099&show_icons=true&theme=radical" alt="antonio18099"/>
+  <!-- Seguidores -->
+  <img src="https://img.shields.io/github/followers/antonio18099?label=Followers&style=for-the-badge&logo=github" alt="Seguidores" />
+  
+  <!-- Estrellas -->
+  <img src="https://img.shields.io/github/stars/antonio18099?affiliations=OWNER&style=for-the-badge&logo=github" alt="Stars" />
+  
+  <!-- Último commit -->
+  <img src="https://img.shields.io/github/last-commit/antonio18099/antonio18099?style=for-the-badge&logo=git" alt="Último commit" />
+  
+  <!-- Lenguajes más usados -->
+  <img src="https://img.shields.io/github/languages/top/antonio18099/antonio18099?style=for-the-badge&logo=javascript" alt="Lenguaje principal" />
+  
+  <!-- Visitantes -->
+  <img src="https://komarev.com/ghpvc/?username=antonio18099&style=for-the-badge" alt="Visitas al perfil" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio18099&theme=radical" alt="antonio18099"/>
-</p>
-
-## 🤝 Conéctate conmigo
-
-<p align="center">
-  <a href="mailto:antoniosanchezr0921@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-jos%C3%A9-rodr%C3%ADguez-s%C3%A1nchez-97b7b222a/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a>
-  <a href="https://github.com/antonio18099" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
-  </a>
-</p>
 
 ## 🎯 Mis Objetivos
