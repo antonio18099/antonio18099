@@ -70,4 +70,20 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 - ![Impact](https://img.shields.io/badge/Objetivo-Impacto%20Positivo-orange?style=for-the-badge)  
   Crear software que mejore la vida de las personas.  
 
+## 🤝 Trabaja conmigo  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-jos%C3%A9-rodr%C3%ADguez-s%C3%A1nchez-97b7b222a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:antoniosanchezr0921@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Correo-red?style=for-the-badge&logo=gmail" alt="Correo"/>
+  </a>
+  <a href="https://github.com/antonio18099" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+
+
 
