@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/antonio18099/antonio18099/main/assets/banner.png" alt="Banner Antonio José Rodríguez Sánchez" />
 </p>
 
-
-
 # ¡Hola! Soy Antonio José Rodríguez Sánchez 👋
 
 Soy un apasionado Aprendiz SENA en Análisis y Desarrollo de Software, con un fuerte interés en la creación de soluciones digitales innovadoras. Me dedico al aprendizaje continuo y disfruto aplicando mis conocimientos en proyectos reales.
@@ -12,11 +10,10 @@ Soy un apasionado Aprendiz SENA en Análisis y Desarrollo de Software, con un fu
 
 Mi viaje en la tecnología comenzó a temprana edad, lo que me llevó a combinar mi pasión por la resolución de problemas con la creatividad en el desarrollo de software. Aunque disfruto especialmente del desarrollo frontend y la creación de interfaces de usuario intuitivas, también me interesa profundizar en ciberseguridad y desarrollo backend. En mi tiempo libre, me gusta explorar nuevas tecnologías, participar en hackatones y contribuir a proyectos de código abierto.
 
-## Habilidades y Tecnologías
+## 🚀 Habilidades y Tecnologías
 
 Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 
-```markdown
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;"/>
@@ -41,11 +38,9 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
   <!-- Diseño -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60" style="margin: 10px;"/>
 </p>
-```
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-```markdown
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antonio18099&show_icons=true&theme=radical" alt="antonio18099"/>
 </p>
@@ -53,20 +48,19 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio18099&theme=radical" alt="antonio18099"/>
 </p>
-```
 
-## Conéctate conmigo
+## 🤝 Conéctate conmigo
 
-```markdown
 <p align="center">
-  <a href="mailto:antoniosanchezr0921@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
-  <a href="https://www.linkedin.com/in/antonio-jos%C3%A9-rodr%C3%ADguez-s%C3%A1nchez-97b7b222a/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-  <a href="https://github.com/antonio18099" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+  <a href="mailto:antoniosanchezr0921@gmail.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-jos%C3%A9-rodr%C3%ADguez-s%C3%A1nchez-97b7b222a/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a>
+  <a href="https://github.com/antonio18099" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a>
 </p>
-```
 
-## Mis Objetivos
-
-
-
-
+## 🎯 Mis Objetivos
