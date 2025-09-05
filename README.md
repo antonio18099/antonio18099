@@ -54,3 +54,12 @@ Aquí puedes encontrar algunas de las tecnologías con las que trabajo:
 
 
 ## 🎯 Mis Objetivos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻 Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔒 Ciberseguridad-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍 Código%20Abierto-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀 Aprendizaje%20Constante-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨ Impacto%20Positivo-purple?style=for-the-badge" />
+</p>
+
