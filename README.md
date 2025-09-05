@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="C:\Users\Antonio Sanchez\Desktop\antonio\banner_github.png" alt="Banner Antonio José Rodríguez Sánchez - Desarrollador de Software">
+  <img src="https://raw.githubusercontent.com/antonio18099/antonio18099/main/assets/banner.png" alt="Banner Antonio José Rodríguez Sánchez" />
 </p>
+
+
 
 # ¡Hola! Soy Antonio José Rodríguez Sánchez 👋
 
